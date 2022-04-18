@@ -15,11 +15,11 @@ export const STREAM_TREASURY = 'HQ9xdik6TD9wJHFDxQHoSJ4U9HWGP3xfVXLNDG3m2h7y';
 export const MARKET_LOGO = '/stream_white_logo.svg';
 
 export const TOKEN_VERIFICATION_ADDRESS = '5P3giWpPBrVKL8QP8roKM7NsLdi3ie1Nc2b5r9mGtvwb';
-export const TOKEN_VERIFICATION_NAME = 'Stream';
+export const TOKEN_VERIFICATION_NAME = 'StreamDAO';
 export const TOKEN_VERIFICATION_AMOUNT = 1000;
-export const TOKEN_REPORT_AMOUNT = 10;
+export const TOKEN_REPORT_AMOUNT = 15;
 export const REPORT_ALERT_THRESHOLD = 1;
-export const TOKEN_REALM_ID = 'By2sVGZXwfQq6rAiAM3rNPJ9iQfb5e2QhnF4YjJ4Bip';
+export const TOKEN_REALM_ID = 'FUjE8nZ9WLch6bYMfxd2ybyfzw19odi6Yfnio9Dc2v2V';
 export const TOKEN_REALM_PROGRAM_ID = 'GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw';
 
 export const VERIFIED_COLLECTION_ARRAY = [{

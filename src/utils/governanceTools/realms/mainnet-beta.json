@@ -442,11 +442,11 @@
         "ogImage": "/realms/XPWizards/img/xpwizlogo.png"
     },
     {
-        "symbol": "StreamDAO",
+        "symbol": "STRM",
         "displayName": "StreamDAO",
-        "programId": "8k1JM5Cd6Hz7G6Jsq1FSzgRYPyS4RFj9k11Uvt5bgWRP",
+        "programId": "GovER5Lthms3bLBqWub97yVrMmEogzX7xNjdXpPPCVZw",
         "realmId": "FUjE8nZ9WLch6bYMfxd2ybyfzw19odi6Yfnio9Dc2v2V",
-        "ogImage": "/realms/streamdao/img/StreamDAOlogo.png",
+        "ogImage": "/realms/StreamDAO/img/stream_dao.png",
         "website": "https://streamdao.org/",
         "twitter": "@dao_stream"
     },

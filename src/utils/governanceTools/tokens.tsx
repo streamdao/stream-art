@@ -135,7 +135,7 @@ export async function tryGetTokenAccount(
       account,
     }
   } catch (ex) {
-    // This is Try method and is expected to fail and hence logging is uneccesery
+    // This is Try method and is expected to fail and hence logging is unnecessary
     // console.error(`Can't fetch token account ${publicKey?.toBase58()}`, ex)
   }
 }
